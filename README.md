@@ -1,5 +1,5 @@
 # Urban-Microclimates-and-Heat-Stress-Across-the-Continental-US
-Fiker Zewdie's code for research project on the Urban Heat Island and Heat Indices.
+Fiker Zewdie's code for research project on the Urban Heat Island and Heat Indices across the USA.
 
 This code was done for a project in 2020 aimed to look at four different US cities: Orlando, Atlanta, Houston, Phoenix. The csv files from the publicly available GridMET dataset contained temperatures from 1979-2019. One csv contained daily maximum temperatures and the other relative humidity temperatures. These cities were selected for their different climate seasons, with special consideration for heat index temperatures.
 
